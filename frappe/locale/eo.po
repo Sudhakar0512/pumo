@@ -3578,7 +3578,7 @@ msgid "Build {0}"
 msgstr "crwdns114206:0{0}crwdne114206:0"
 
 #: frappe/templates/includes/footer/footer_powered.html:1
-msgid "Built on {0}"
+msgid "Built on AppXcess Technologies"
 msgstr "crwdns114208:0{0}crwdne114208:0"
 
 #. Label of a Check field in DocType 'User'

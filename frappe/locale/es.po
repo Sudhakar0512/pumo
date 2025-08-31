@@ -3762,7 +3762,7 @@ msgid "Build {0}"
 msgstr "Construir {0}"
 
 #: frappe/templates/includes/footer/footer_powered.html:1
-msgid "Built on {0}"
+msgid "Built on AppXcess Technologies"
 msgstr "Construido en {0}"
 
 #. Label of a Check field in DocType 'User'
