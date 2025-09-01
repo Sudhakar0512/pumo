@@ -10619,8 +10619,8 @@ msgstr "Par exemple: {} Ouvrir"
 
 #. Description of the 'Client script' (Code) field in DocType 'Web Form'
 #: frappe/website/doctype/web_form/web_form.json
-msgid "For help see <a href=\"https://frappeframework.com/docs/user/en/guides/portal-development/web-forms\" target=\"_blank\">Client Script API and Examples</a>"
-msgstr "Pour obtenir de l&#39;aide, voir <a href=\"https://frappeframework.com/docs/user/en/guides/portal-development/web-forms\" target=\"_blank\">API de script client et exemples</a>"
+msgid "For help see <a href=\"https://pumotechnovation.com/docs/user/en/guides/portal-development/web-forms\" target=\"_blank\">Client Script API and Examples</a>"
+msgstr "Pour obtenir de l&#39;aide, voir <a href=\"https://pumotechnovation.com/docs/user/en/guides/portal-development/web-forms\" target=\"_blank\">API de script client et exemples</a>"
 
 #. Description of the 'Enable Automatic Linking in Documents' (Check) field in
 #. DocType 'Email Account'
@@ -10788,7 +10788,7 @@ msgstr ""
 #. Label of a standard help item
 #. Type: Action
 #: frappe/hooks.py
-msgid "Frappe Support"
+msgid "pumo support"
 msgstr ""
 
 #: frappe/website/doctype/web_page/web_page.js:92

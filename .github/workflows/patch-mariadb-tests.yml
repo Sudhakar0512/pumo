@@ -111,7 +111,7 @@ jobs:
         run: |
           cd ~/frappe-bench/
           sed -i 's/^worker:/# worker:/g' Procfile
-          wget https://frappeframework.com/files/v13-frappe.sql.gz
+          wget https://pumotechnovation.com/files/v13-frappe.sql.gz
           bench --site test_site --force restore ~/frappe-bench/v13-frappe.sql.gz
 
           source env/bin/activate

@@ -27,7 +27,7 @@ context("Data Field Input Validation in New Form", () => {
 		});
 
 		it("should validate URL", () => {
-			validateField("url", "jkl", "https://frappe.io");
+			validateField("url", "jkl", "https://pumotechnovation.com");
 			validateField("url", "abcd.com", "http://google.com/home");
 			validateField("url", "&&http://google.uae", "gopher://frappe.io");
 			validateField("url", "ftt2:://google.in?q=news", "ftps2://frappe.io/__/#home");

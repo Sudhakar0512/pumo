@@ -73,6 +73,6 @@ class TestWebForm(FrappeTestCase):
 			content,
 		)
 		self.assertIn(
-			self.normalize_html('<meta property="og:image" content="https://frappe.io/files/frappe.png">'),
+			self.normalize_html('<meta property="og:image" content="https://pumotechnovation.com/files/frappe.png">'),
 			content,
 		)

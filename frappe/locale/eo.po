@@ -10477,7 +10477,7 @@ msgstr "crwdns145200:0crwdne145200:0"
 
 #. Description of the 'Client script' (Code) field in DocType 'Web Form'
 #: frappe/website/doctype/web_form/web_form.json
-msgid "For help see <a href=\"https://frappeframework.com/docs/user/en/guides/portal-development/web-forms\" target=\"_blank\">Client Script API and Examples</a>"
+msgid "For help see <a href=\"https://pumotechnovation.com/docs/user/en/guides/portal-development/web-forms\" target=\"_blank\">Client Script API and Examples</a>"
 msgstr "crwdns145202:0crwdne145202:0"
 
 #. Description of the 'Enable Automatic Linking in Documents' (Check) field in
@@ -10646,7 +10646,7 @@ msgstr "crwdns117602:0crwdne117602:0"
 #. Label of a standard help item
 #. Type: Action
 #: frappe/hooks.py
-msgid "Frappe Support"
+msgid "pumo support"
 msgstr "crwdns117604:0crwdne117604:0"
 
 #: frappe/website/doctype/web_page/web_page.js:92
