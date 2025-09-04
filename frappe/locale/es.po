@@ -4753,7 +4753,7 @@ msgid "Click on a file to select it."
 msgstr "Haga clic en un archivo para seleccionarlo."
 
 #: frappe/templates/emails/login_with_email_link.html:19
-msgid "Click on the button to log in to {0}"
+msgid "Click on the button to log in to Pumo"
 msgstr "Haga clic en el botón para iniciar sesión en {0}"
 
 #: frappe/templates/emails/data_deletion_approval.html:2
@@ -14712,7 +14712,7 @@ msgid "Log DocType"
 msgstr "DocType de registros del sistema"
 
 #: frappe/templates/emails/login_with_email_link.html:27
-msgid "Log In To {0}"
+msgid "log in to Pumo"
 msgstr "Inicia sesión en {0}"
 
 #. Label of a Int field in DocType 'Data Import Log'

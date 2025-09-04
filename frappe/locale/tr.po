@@ -4752,7 +4752,7 @@ msgid "Click on a file to select it."
 msgstr "Seçmek için bir dosyaya tıklayın."
 
 #: frappe/templates/emails/login_with_email_link.html:19
-msgid "Click on the button to log in to {0}"
+msgid "Click on the button to log in to Pumo"
 msgstr "{0} adresinde oturum açmak için düğmeye tıklayın"
 
 #: frappe/templates/emails/data_deletion_approval.html:2
@@ -14707,7 +14707,7 @@ msgid "Log DocType"
 msgstr "Günlük Kayıt için DocType"
 
 #: frappe/templates/emails/login_with_email_link.html:27
-msgid "Log In To {0}"
+msgid "log in to Pumo"
 msgstr "{0} Adresine Giriş Yapın"
 
 #. Label of a Int field in DocType 'Data Import Log'
